@@ -1,4 +1,4 @@
-# :desktop_computer: Cryptocurrency-Clusters- Unsupervised Machine Learning
+# Cryptocurrency Clusters- Unsupervised Machine Learning
 
 ## :desktop_computer: Summary
 
@@ -36,7 +36,7 @@
 
 ### Recommendation
 
-* Based on your findings, make a brief (1-2 sentences) recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters? 
+* Based on the findings, there is one main clustered in cluster plot. The recommendation to investment bnak is the cryptocurrencies be clustered together as one cluster. According the elbow plot, the optimal number for clusters is 5. 
 
 
 - - -
